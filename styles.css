@@ -1,0 +1,28 @@
+.content {
+    padding: 16px;
+    background-color: #d3d3d3;
+}
+
+div.header {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+    text-align: center;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 60%);
+    font-size: 5vh;
+}
+
+div.module {
+    margin-top: 3vh;
+    height: 47vh;
+    background-color: #939393;
+}
+
+h3.footer {
+    margin-top: 5vh;
+    font-size: 3vh;
+    text-align: center;
+}
