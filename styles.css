@@ -16,9 +16,27 @@ div.header {
 }
 
 div.module {
+    padding: 16px;
     margin-top: 3vh;
-    height: 47vh;
-    background-color: #939393;
+    background-color: #bcbcbc;
+    display: flex;
+}
+
+.module img {
+    width: 40vw;
+}
+
+.module div {
+    display: flex;
+    flex-direction: column;
+    flex: 60%;
+    padding-left: 8px;
+    font-size: 3vh;
+}
+
+.module div h2 {
+    text-align: center;
+    width: auto;
 }
 
 h3.footer {
