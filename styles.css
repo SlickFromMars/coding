@@ -107,3 +107,11 @@ div.logos {
 div.logos a img {
     height: 20vh;
 }
+
+.module iframe {
+    margin: auto;
+}
+
+#yt {
+    background-color: transparent;
+}
