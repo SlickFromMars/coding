@@ -20,6 +20,7 @@ div.module {
     margin-top: 3vh;
     background-color: #bcbcbc;
     display: flex;
+    border-radius: 10px;
 }
 
 .module img {
