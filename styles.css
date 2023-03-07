@@ -43,6 +43,7 @@ div.module {
 
 .module img {
     width: 40vw;
+    border-radius: 10px;
 }
 
 .module div {
@@ -86,4 +87,13 @@ button {
 
 div.buttons button:hover {
     background-color: rgb(167, 167, 167);
+}
+
+div.logos {
+    width: fit-content;
+    margin: auto;
+}
+
+div.logos a img {
+    height: 20vh;
 }
