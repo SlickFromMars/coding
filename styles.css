@@ -71,7 +71,7 @@ h3.footer {
     width: max-content;
 }
 
-button {
+div.buttons button {
     background-color: #8c8c8c;
     border: none;
     color: white;
@@ -87,6 +87,16 @@ button {
 
 div.buttons button:hover {
     background-color: rgb(167, 167, 167);
+}
+
+div.buttons button.kids {
+    background-color: darkmagenta;
+    color: yellow;
+}
+
+div.buttons button.kids:hover {
+    background-color: rgb(227, 0, 227);
+    color: yellow;
 }
 
 div.logos {
